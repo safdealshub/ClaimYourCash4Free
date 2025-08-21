@@ -1,0 +1,19 @@
+# CNAME File Template for Custom Domain
+
+# Instructions:
+# 1. Rename this file to "CNAME" (no extension)
+# 2. Replace "yourdomain.com" with your actual custom domain
+# 3. GitHub Pages will automatically use this for custom domain routing
+
+# Example for root domain:
+yourdomain.com
+
+# Example for subdomain:
+# www.yourdomain.com
+
+# Examples of good domain names for your unclaimed money directory:
+# findunclaimedmoney.com
+# unclaimedmoneydirectory.com  
+# findmymoney.org
+# unclaimedpropertyguide.com
+# officialunclaimedmoney.com
